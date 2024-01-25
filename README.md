@@ -19,4 +19,4 @@ This is a improved TensorFlow 2 implementation of the [N-Beats paper](https://ar
 
 ## Architecture
 
-![Philnet Architecture](https://github.com/AmirGhnbr/Bit_pred/blob/main/assets/N-Beats architecture.PNG?raw=true)
+![Nbeats Architecture](https://raw.githubusercontent.com/AmirGhnbr/Bit_pred/main/assets/N-Beats%20architecture.PNG?token=GHSAT0AAAAAACNLGJZCTTGBQECSGTMDMKHQZNSQEWQ)
